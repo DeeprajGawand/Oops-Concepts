@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Encapsulation;
 //practice here
 
 class Attm {
