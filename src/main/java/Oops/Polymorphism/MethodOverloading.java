@@ -1,5 +1,5 @@
 package Oops.Polymorphism;
-
+//example of compile time polymorphism
 //Class having more than one method with same name but different formal argument
 public class MethodOverloading
 {

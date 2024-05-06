@@ -1,5 +1,5 @@
 package Oops.Polymorphism;
-
+//example of runtime polymorphism
 //Subclass method override super class method is call methodoverriding
 
 class Animal{
